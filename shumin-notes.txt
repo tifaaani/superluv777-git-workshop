@@ -47,3 +47,6 @@ git checkout [name]
 
 git merge [branch name]
 	merges changes on [branch name] into current branch
+
+git checkout [commit-id]
+	switches to [commit-id]
