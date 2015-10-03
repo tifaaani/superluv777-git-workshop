@@ -44,3 +44,6 @@ git branch [name]
 
 git checkout [name]
 	switches to branch [branch name]
+
+git merge [branch name]
+	merges changes on [branch name] into current branch
