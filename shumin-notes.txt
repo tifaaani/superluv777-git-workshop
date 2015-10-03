@@ -27,3 +27,7 @@ git commit -m 'MESSAGE'
 
 git log 
 	shows us all the commits that were made 
+
+git log --oneline
+	Shows us all the commmits in one line 
+
