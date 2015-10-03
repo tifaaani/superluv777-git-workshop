@@ -1,0 +1,14 @@
+pwd
+	lists present working directory 
+
+ls
+	directory listing 
+
+cd [directory name]
+	go into [directory name]
+
+mkdir [directory name]
+	make new folder with name [directory-name]
+
+touch [file name.extension]
+	creates a new file with name [file.extension]
